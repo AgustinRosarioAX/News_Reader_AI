@@ -1,6 +1,9 @@
 This is an artificial intelligence React News Application using Alan AI called News Reader AI
 This application has the voice regognition ability, so that you can control this app just using the speech.
 
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/33afcffa-73b7-4d6b-9725-ce4d60151d04">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
